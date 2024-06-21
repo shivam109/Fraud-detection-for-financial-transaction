@@ -58,8 +58,6 @@ My solution to solve this problem will be the development of a data science proj
 
 **Step 09. Conclusions:** This is a conclusion stage which the generation capacity model is tested using unseen data. In addition, some business questions are answered to show the applicability of the model in the business context.
 
-**Step 10. Model Deploy:** This is the final step of the data science project. So, in this step the flask api is created and the model and the functions are saved to be implemented in the api.
-
 ## 4.0 Top 3 Data Insights
 
 * #### All the fraud amount is greater than 10.000.
